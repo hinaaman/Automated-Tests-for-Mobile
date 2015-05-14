@@ -1,0 +1,16 @@
+{
+  "name": "appium-sample-code-for-websites",
+  "version": "1.0.0",
+  "description": "Appium Sample Code for Websites",
+  "bugs": {
+    "url": "https://github.com/appium/sample-code/issues"
+  },
+  "homepage": "https://github.com/appium/sample-code",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "chai-as-promised": "^5.0.0",
+    "colors": "^1.0.3",
+    "underscore": "^1.8.3",
+    "wd": "^0.3.11"
+  }
+}
